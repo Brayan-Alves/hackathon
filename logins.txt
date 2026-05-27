@@ -1,0 +1,5 @@
+| Perfil        | Email            | Senha  |
+| ------------- | ---------------- | ------ |
+| 👨‍🏫 Docente | docente\@lab.com | 123456 |
+| 👨‍🔧 Técnico | tecnico\@lab.com | 123456 |
+| 👨‍💼 Admin   | admin\@lab.com   | 123456 |
