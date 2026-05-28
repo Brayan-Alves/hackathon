@@ -331,6 +331,9 @@ hackathon-frontend-end-03/
 
 *Para dúvidas ou problemas, abra uma issue no repositório.*
 
+## Imagens
+
+### Pagina Principal
 <div align="center">
 <img src="https://github.com/user-attachments/assets/60a5e674-b791-40c8-901f-b81953fb28a9" />
 </div>
